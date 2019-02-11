@@ -1,0 +1,48 @@
+{
+  "Collections": [
+    {
+      "name": "Lifeline",
+      "preview_url": "https://squid7331.github.io/ALWP/img/AL-Lifeline.png",
+      "preview_thumbnail_url": "https://squid7331.github.io/ALWP/img/AL-Lifeline.png"
+    },
+    {
+      "name": "Pathfinder",
+      "preview_url": "https://squid7331.github.io/ALWP/img/AL-Pathfinder.png",
+      "preview_thumbnail_url": "https://squid7331.github.io/ALWP/img/AL-Pathfinder.png"
+    },
+    {
+      "name": "Wraith",
+      "preview_url": "https://squid7331.github.io/ALWP/img/AL-Wraith.png",
+      "preview_thumbnail_url": "https://squid7331.github.io/ALWP/img/AL-Wraith.png"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "Lifeline",
+      "author": "Squid7331",
+      "url": "https://squid7331.github.io/ALWP/img/AL-Lifeline.png",
+      "thumbnail": "https://squid7331.github.io/ALWP/img/AL-Lifeline.png",
+      "collections": "Lifeline",
+      "downloadable": true,
+      "dimensions": "1440 x 2960 px"
+    },
+    {
+      "name": "Pathfinder",
+      "author": "Squid7331",
+      "url": "https://squid7331.github.io/ALWP/img/AL-Pathfinder.png",
+      "thumbnail": "https://squid7331.github.io/ALWP/img/AL-Pathfinder.png",
+      "collections": "Pathfinder",
+      "downloadable": true,
+      "dimensions": "1440 x 2960 px"
+    },
+    {
+      "name": "Wraith",
+      "author": "Squid7331",
+      "url": "https://squid7331.github.io/ALWP/img/AL-Wraith.png",
+      "thumbnail": "https://squid7331.github.io/ALWP/img/AL-Wraith.png",
+      "collections": "Wraith",
+      "downloadable": true,
+      "dimensions": "1440 x 2960 px"
+    }
+  ]
+}
